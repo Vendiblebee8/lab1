@@ -19,6 +19,7 @@ ANSI-compatibility strategy:
 
 #ifndef OK_NL
 
+
 /* Define ANSIPROTO and/or STDINCLUDE here if needed */
 #ifdef TURBOC
 # define    ANSIPROTO

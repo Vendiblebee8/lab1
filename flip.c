@@ -62,6 +62,7 @@ char *bintab;
 int got_sig;               /* will indicate if signal received */
 #endif
 
+
 char *myname = NULL;
 
 int exitstat = 0;          /* exit status */
